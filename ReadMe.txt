@@ -1,3 +1,5 @@
-pdfs are stored in a folder called Hands, located in the same direcotry of the executable
+#PDF-Dealer
 
-cardimages folder needs to be located in the same directory as the app excecutable
+This is an extension to SIT-Lab5-Dealer project.
+
+Now when the user saves all hadns it will also create PDF versions of each hand located in a hands folder.

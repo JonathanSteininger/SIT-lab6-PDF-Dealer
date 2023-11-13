@@ -1,4 +1,4 @@
-#PDF-Dealer
+<h1>PDF-Dealer</h1>
 
 This is an extension to SIT-Lab5-Dealer project.
 
